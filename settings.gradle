@@ -1,0 +1,4 @@
+include ':myapplication3'
+include ':basicviews'
+include ':app'
+rootProject.name = "Lesson_4"
